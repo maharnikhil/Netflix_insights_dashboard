@@ -210,3 +210,18 @@ This dashboard demonstrates how modern AI tools can be used to rapidly build pro
 ## Project Goal
 
 The objective of this project is to demonstrate how analytics, business intelligence concepts, modern UI/UX design, API-driven data, and AI-assisted development can be combined to create engaging dashboards that deliver meaningful insights while significantly accelerating the development lifecycle.
+
+---
+
+## Author
+
+Nikhil Singh Mahar
+
+GitHub: https://github.com/maharnikhil
+
+---
+
+## Project Status
+
+--Completed--
+
