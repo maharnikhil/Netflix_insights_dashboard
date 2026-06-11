@@ -247,6 +247,7 @@ The objective of this project is to demonstrate how analytics, business intellig
 Nikhil Singh Mahar
 
 Git: https://github.com/maharnikhil
+
 Mail: nikhilsinghmahar1234@gmail.com
 
 ---
