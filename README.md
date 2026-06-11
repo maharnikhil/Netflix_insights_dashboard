@@ -207,6 +207,35 @@ This dashboard demonstrates how modern AI tools can be used to rapidly build pro
 
 ---
 
+## Repository Structure
+
+```
+Netflix_insights_dashboard
+│
+├── Dashboard Screenshots
+│   ├── Overview.png
+│   ├── Movies Insights.png
+│   ├── Genre Insights.png
+│   ├── Audience Insights.png
+│   └── Geographic Insights.png
+│
+├── src
+│   ├── app
+│   ├── styles
+│   └── main.tsx
+│
+├── README.md
+├── ATTRIBUTIONS.md
+├── default_shadcn_theme.css
+├── index.html
+├── package.json
+├── pnpm-workspace.yaml
+├── postcss.config.mjs
+└── vite.config.ts
+```
+
+---
+
 ## Project Goal
 
 The objective of this project is to demonstrate how analytics, business intelligence concepts, modern UI/UX design, API-driven data, and AI-assisted development can be combined to create engaging dashboards that deliver meaningful insights while significantly accelerating the development lifecycle.
